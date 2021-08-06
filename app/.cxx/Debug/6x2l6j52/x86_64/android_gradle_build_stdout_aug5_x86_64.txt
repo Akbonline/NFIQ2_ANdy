@@ -1,0 +1,7 @@
+ninja: Entering directory `/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64'
+[0/1] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64
+[1/2] Building CXX object CMakeFiles/aug5.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library /home/cid/AndroidStudioProjects/aug5/app/build/intermediates/cxx/Debug/6x2l6j52/obj/x86_64/libaug5.so

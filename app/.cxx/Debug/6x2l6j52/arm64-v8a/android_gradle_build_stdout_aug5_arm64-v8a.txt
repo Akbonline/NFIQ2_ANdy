@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/aug5.dir/native-lib.cpp.o
+[2/2] Linking CXX shared library /home/cid/AndroidStudioProjects/aug5/app/build/intermediates/cxx/Debug/6x2l6j52/obj/arm64-v8a/libaug5.so

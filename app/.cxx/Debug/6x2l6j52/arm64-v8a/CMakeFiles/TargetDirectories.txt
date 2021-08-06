@@ -1,0 +1,3 @@
+/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/arm64-v8a/CMakeFiles/aug5.dir

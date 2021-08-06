@@ -1,0 +1,8 @@
+# ninja log v5
+0	290	1628203829	CMakeFiles/aug5.dir/native-lib.cpp.o	5af4b0fd53fdc002
+290	324	1628203829	/home/cid/AndroidStudioProjects/aug5/app/build/intermediates/cxx/Debug/6x2l6j52/obj/x86_64/libaug5.so	ad99efc427848fd
+1	28	1628270262	build.ninja	d794ab03c6ba7e4e
+0	2	0	clean	b1f50d035a8e74d3
+0	13	1628275921	build.ninja	d794ab03c6ba7e4e
+1	715	1628275922	CMakeFiles/aug5.dir/native-lib.cpp.o	5af4b0fd53fdc002
+716	782	1628275922	/home/cid/AndroidStudioProjects/aug5/app/build/intermediates/cxx/Debug/6x2l6j52/obj/x86_64/libaug5.so	651a189cf102a0fb

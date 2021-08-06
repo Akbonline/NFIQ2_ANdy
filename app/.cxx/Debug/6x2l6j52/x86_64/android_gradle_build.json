@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/cid/AndroidStudioProjects/aug5/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "aug5-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64",
+        "aug5"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "aug5",
+      "output": "/home/cid/AndroidStudioProjects/aug5/app/build/intermediates/cxx/Debug/6x2l6j52/obj/x86_64/libaug5.so",
+      "runtimeFiles": [
+        "/home/cid/AndroidStudioProjects/aug5/app/src/main/jniLibs/arm64-v8a/libNfiq2Api.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

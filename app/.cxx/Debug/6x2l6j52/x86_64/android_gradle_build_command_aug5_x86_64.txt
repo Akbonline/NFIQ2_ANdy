@@ -1,0 +1,7 @@
+Executable : /home/cid/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/cid/AndroidStudioProjects/aug5/app/.cxx/Debug/6x2l6j52/x86_64
+aug5
+jvmArgs : 
+
